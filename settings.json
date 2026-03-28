@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "BDLM.aternos.me",
+    "port": 20491,
     "version": "1.21.1"
   },
   "position": {
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": true,
